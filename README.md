@@ -12,3 +12,7 @@ Repositório privado para experimentos com badges do GitHub.
 1. Abra uma issue descrevendo a mudança
 2. Crie uma branch e abra um pull request
 3. Aguarde o merge
+
+## Licença
+
+Uso pessoal, sem licença definida.
