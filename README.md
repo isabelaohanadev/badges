@@ -20,3 +20,7 @@ Uso pessoal, sem licença definida.
 ## Status
 
 Repositório ativo.
+
+## Contato
+
+Abra uma issue neste repositório.
