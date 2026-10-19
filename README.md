@@ -24,3 +24,7 @@ Repositório ativo.
 ## Contato
 
 Abra uma issue neste repositório.
+
+## Agradecimentos
+
+Obrigada a quem contribuiu.
