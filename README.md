@@ -16,3 +16,7 @@ Repositório privado para experimentos com badges do GitHub.
 ## Licença
 
 Uso pessoal, sem licença definida.
+
+## Status
+
+Repositório ativo.
